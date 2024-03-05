@@ -1,11 +1,5 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/pixology)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/pixology?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/pixology?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/olASpEtIwRY?style=social)](https://youtu.be/olASpEtIwRY)
-
   <br />
   <br />
 
@@ -14,6 +8,8 @@
   Pixology is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://www.youtube.com/watch?v=olASpEtIwRY&t=195s"><strong>➥ youtube tutorial</strong></a>
+  <br />
+
   <a href="https://yassaasalib.github.io/pixology/"><strong>➥ Live Demo</strong></a>
 
 </div>
